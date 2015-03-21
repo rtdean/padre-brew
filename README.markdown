@@ -2,7 +2,7 @@ Padre-Brew and Packaging Padre
 ==============================
 padre-brew is a package for creating self-contained Padre directories, and also packaging them into distributions.
 
-padre-brew consists of two parts, a padre-brew.pl, and a [cava pacager](http://www.cava.co.uk/) project.
+padre-brew consists of two parts, a padre-brew.pl, and a [cava pacager](http://www.cavapackager.com/) project.
 
 This readme is also the instructions for building Padre distributions using cava.
 
@@ -24,7 +24,7 @@ padre-brew
 
 cava-project
 ============
-[Cava Packager](http://www.cava.co.uk/) is a perl packager that can be used to package Padre on multiple operating systems.
+[Cava Packager](http://www.cavapackager.com/) is a perl packager that can be used to package Padre on multiple operating systems.
 
 The foundation of this work and the heavy lifting was done by Mark @ Cava.
 
@@ -46,7 +46,7 @@ You can include more modules in your Padre sandbox by using the sandboxed cpanm 
 
 Getting Cava
 ------------
-*  Cava is hosted here: [http://www.cava.co.uk/](http://www.cava.co.uk/)
+*  Cava is hosted here: [http://www.cavapackager.com/](http://www.cavapackager.com/)
 *  You will need to create an account before you can download Cava.
 *  Also, you will have to obtain and install a non-commercial or commercial license key.
 *  You will be prompted to install your license key the first time you try to open a project in Cava.

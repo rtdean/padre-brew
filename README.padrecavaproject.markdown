@@ -11,7 +11,7 @@ It is assumed you have read the README and are familiar with packaging Padre wit
 
 Credit
 ------
-The first version of the cava package was created by Mark @ (Cava)[http://www.cava.co.uk/], and this guide describes his work or builds upon it.
+The first version of the cava package was created by Mark @ (Cava)[http://www.cavapackager.com/], and this guide describes his work or builds upon it.
 
 Lets get down to it...
 
